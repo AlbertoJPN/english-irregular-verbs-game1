@@ -1,0 +1,5 @@
+{
+  "name": "English Irregular Verbs Game",
+  "description": "A mini-game to help users learn and practice English irregular verbs. Users guess the past simple and past participle forms of a given verb, with hints available. The app tracks progress and shows statistics.",
+  "requestFramePermissions": []
+}
